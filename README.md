@@ -36,7 +36,7 @@ An Arduino-based Micro Radar System that scans for objects using an ultrasonic s
 | `radar.ino` | Arduino source code for radar system |
 | `radar_visualization.pde` | Visualization code using Processing |
 | `Micro_Radar_System_Project_Report.docx` | Full project report |
-| `circuit_diagram.jpg` | Circuit diagram (add if available) |
+| `circuit_diagram.jpg` | Circuit diagram |
 
 ---
 
